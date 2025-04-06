@@ -1,6 +1,6 @@
 # Chat with Your Database
 
-This project demonstrates how to use natural language to interact with your Supabase database using MCP (Managed Cloud Platform). Instead of writing complex SQL queries, you can simply ask questions in plain English and get insights from your data.
+This project demonstrates how to use natural language to interact with your Supabase database using MCP (Model Context Protocol). Instead of writing complex SQL queries, you can simply ask questions in plain English and get insights from your data.
 
 ## Features
 
@@ -154,23 +154,8 @@ Example questions to try:
 - Queries are executed with appropriate role-based permissions
 - Sensitive data can be protected through RLS policies
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-If you have any questions or need help, please:
-1. Open an issue in this repository
-2. Contact our support team
-3. Join our community Discord
-
 ## Acknowledgments
 
 - Supabase for providing the database infrastructure
 - MCP for enabling natural language database interactions
-- Our contributors and users for their valuable feedback
+
