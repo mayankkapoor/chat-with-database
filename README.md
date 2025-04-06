@@ -1,6 +1,6 @@
 # Chat with Your Database
 
-This project demonstrates how to use natural language to interact with your Supabase database using MCP (Model Context Protocol). Instead of writing complex SQL queries, you can simply ask questions in plain English and get insights from your data.
+This project demonstrates how to use natural language to interact with your Supabase database using MCP Server (Model Context Protocol) added into Cursor IDE. Instead of writing complex SQL queries, you can simply ask questions in plain English and get insights from your data.
 
 ## Features
 
